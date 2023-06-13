@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="15" viewBox="0 0 24 15">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <path stroke="#8E8E8E" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" d="M2.262 11.868L9.296 5.734 14.84 10.364 22.275 1.717" transform="translate(-169 -131) translate(169 131)"/>
+                <path fill="#FFF" d="M11.128 5.973c0 .903-.733 1.637-1.637 1.637s-1.636-.734-1.636-1.637c0-.904.732-1.637 1.636-1.637.904 0 1.637.733 1.637 1.637" transform="translate(-169 -131) translate(169 131)"/>
+                <path stroke="#8E8E8E" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" d="M11.128 5.973c0 .903-.733 1.637-1.637 1.637s-1.636-.734-1.636-1.637c0-.904.732-1.637 1.636-1.637.904 0 1.637.733 1.637 1.637z" transform="translate(-169 -131) translate(169 131)"/>
+                <path fill="#FFF" d="M3.898 11.868c0 .903-.733 1.637-1.637 1.637S.625 12.77.625 11.868c0-.904.732-1.637 1.636-1.637.904 0 1.637.733 1.637 1.637" transform="translate(-169 -131) translate(169 131)"/>
+                <path stroke="#8E8E8E" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" d="M3.898 11.868c0 .903-.733 1.637-1.637 1.637S.625 12.77.625 11.868c0-.904.732-1.637 1.636-1.637.904 0 1.637.733 1.637 1.637z" transform="translate(-169 -131) translate(169 131)"/>
+                <path fill="#FFF" d="M17.095 10.231c0 1.055-.855 1.91-1.91 1.91-1.054 0-1.91-.855-1.91-1.91s.856-1.91 1.91-1.91c1.055 0 1.91.855 1.91 1.91" transform="translate(-169 -131) translate(169 131)"/>
+                <path stroke="#8E8E8E" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" d="M17.095 10.231c0 1.055-.855 1.91-1.91 1.91-1.054 0-1.91-.855-1.91-1.91s.856-1.91 1.91-1.91c1.055 0 1.91.855 1.91 1.91z" transform="translate(-169 -131) translate(169 131)"/>
+                <path fill="#FFF" d="M23.366 2.807c0 1.205-.977 2.183-2.182 2.183s-2.182-.978-2.182-2.183c0-1.205.977-2.183 2.182-2.183s2.182.978 2.182 2.183" transform="translate(-169 -131) translate(169 131)"/>
+                <path stroke="#8E8E8E" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.25" d="M23.366 2.807c0 1.205-.977 2.183-2.182 2.183s-2.182-.978-2.182-2.183c0-1.205.977-2.183 2.182-2.183s2.182.978 2.182 2.183z" transform="translate(-169 -131) translate(169 131)"/>
+            </g>
+        </g>
+    </g>
+</svg>

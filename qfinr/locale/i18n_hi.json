@@ -1,0 +1,116 @@
+{
+  "app_title": "मेरा एप्लिकेशन शीर्षक",
+  "main_title": "मेरा मुख्य शीर्षक",
+
+  "text_change_language": "पसंदीदा भाषा",
+  "text_set_language_button": "आगे बढ़ें",
+  "text_change_language_button": "भाषा सेट करें",
+  "text_change_language_text": "अपनी पसंदीदा भाषा रीसेट करें",
+  
+
+  "text_skip": "छोड़ें",
+  "text_next": "आगे बढ़ें",
+  "text_done": "आगे बढ़ें",
+  "slider1_title": "बेहतर निवेश करें, तेजी से बढ़ें",
+  "slider1_description": "सरल स्टॉक और म्यूचुअल फंड टोकरी के रूप में पैक किए गए बुद्धिमान विचारों और उभरते विषयों को ट्रैक करें। सही स्टॉक में निवेश करें जो कटौती में सफल उतरते हैं और समय पर उन स्टॉक से बाहर निकलें जो खरे नहीं उतरते।",
+  "slider2_title": "सही समय पर खरीदें और बेचें",
+  "slider2_description": "निवेश टोकरी के लिए समय पर प्रवेश और निकास अधिसूचनाओं का उपयोग कर रिटर्न में वृद्धिऔर जोखिम को कम करें। लघु और दीर्घकालिक निवेश आवंटन को बेहतर तरीके से प्रबंधित करने के लिए अद्वितीय बाजार संकेतकों को ट्रैक करें।",
+  "slider3_title": "निर्णय लेने के परेशानियों से बचें ",
+  "slider3_description": "बहुत सारी जानकारी, विशेषज्ञ राय, पूर्वाग्रह और शोर के माध्यम से नेविगेट करना बंद करें, जो आपको मदद के बजाय भ्रमित करते हैं। अपने निवेश निर्णयों में लागत, समय और प्रयास बचाएं।",
+
+  "text_form_social": "- अपने फेसबुक या गूगल साइन इन करें -",
+  "text_form_email": "- या ईमेल का उपयोग करें -",
+
+  "text_account": "मेरा खाता",
+  "text_signup": "साइन अप करें",
+  "text_signin": "साइन इन",
+  "text_signout": "साइन आउट",
+
+  "text_signup_l": "साइन अप करें",
+  "text_signin_l": "साइन इन",
+  "text_signout_l": "साइन आउट",
+
+  "text_name": "पूरा नाम",
+  "text_email": "ईमेल",
+  "text_password": "पासवर्ड",
+
+  "text_stocks": "स्टॉक",
+  "text_stock": "स्टॉक",
+  "text_mf": "म्यूचुअल फंड",
+  "text_mf_1": "म्यूचुअल फंड",
+  "text_market_indicators": "बाज़ार संकेतक",
+  "text_indicators": "संकेतक",
+  "text_basket": "टोकरी",
+  "text_tools": "Tools",
+
+  "text_compounded": "कम्पाउंडेड \n वार्षिक रिटर्न",
+  "text_3year": "पिछले 3 साल \n के रिटर्न",
+  "text_mininvestment": "न्यूनतम \n निवेश",
+
+  "text_stock_caption": "नीचे दिए गए विचारों में से उन का चयन करें जिन पर आप विश्वास करते हैं। सही स्टॉक में निवेश करें जो कटौती में सफल उतरते हैं और समय पर उन स्टॉक से बाहर निकलें जो खरे नहीं उतरते।",
+  "text_mf_caption": "अपने लक्ष्यों के अनुरूप नीचे से म्यूचुअल फंड टोकरी का चयन करें। नवीनतम योजनाओं में निवेश करें और कम से कम एक साल बाद अपने निवेश का पुनः संतुलन करें।",
+  "text_mi_caption": "बाजार संकेतकों का चयन करें जिन पर आप विश्वास करते हैं। सही समय पर इक्विटी बाज़ार में निवेश करें और उचित समय पर बाहर निकलें और निवेश में जोखिम कम करें",
+
+  "text_performance": "प्रदर्शन",
+  "text_invest_phil": "निवेश दर्शन",
+  "text_stocklist": "शेयर सूची",
+  "text_mflist": "म्यूचुअल फंड सूची",
+  "text_analytics": "एनालिटिक्स",
+
+  "text_graph_in": "समय के साथ बेंचमार्क की तुलना में इस टोकरी में निवेश किए गए ₹100 का मूल्य",
+  "text_graph_us": "समय के साथ बेंचमार्क की तुलना में इस टोकरी में निवेश किए गए $100 का मूल्य",
+  "text_stock_subscribe": "इस टोकरी को सब्सक्राइब करें और किसी भी बदलाव पर तत्काल अपडेट प्राप्त करें। उन स्टॉक में समय पर निवेश करें जो चुने जाते हैं और उन स्टॉक से बाहर निकलें जो खरे नहीं उतरते।",
+  "text_mf_subscribe": "इस टोकरी को सब्सक्राइब करें और किसी भी बदलाव पर तत्काल अपडेट प्राप्त करें। नवीनतम चुने योजनाओं में निवेश करें और कम से कम एक साल बाद अपने निवेश का पुनः संतुलन करें।",
+
+  "text_scheme_name": "योजना का नाम",
+  "text_stock_list": "स्टॉक टिकर्स",
+  "text_weightage": "प्रतिशत",
+  "text_past_performance": "पिछला प्रदर्शन विश्लेषण",
+  "text_rebalance": "अगली पुनर्वित्त तिथि",
+
+  "text_largecap": "लार्ज कैप",
+  "text_debt": "डेट",
+  "text_multicap": "मल्टी कैप",
+  "text_equity": "इक्विटी",
+  "text_fundamental": "मौलिक",
+  "text_model_based": "मॉडल आधारित",
+  "text_sectoral": "क्षेत्रीय",
+  "text_daily": "दैनिक",
+  "text_weekly": "साप्ताहिक",
+  "text_monthly": "मासिक",
+  "text_quarterly": "त्रैमासिक",
+
+  "mi_date": "दिनांक",
+  "mi_sentiment": "बाजार भाव",
+  "mi_last_updated": "आखरी अपडेट",
+  "mi_value": "वर्तमान मूल्य",
+  "mi_action": "अनुशंसित कार्रवाई",
+  "mi_trend": "मूल्य",
+
+  "text_tool_caption": "अपने निवेश की योजना बनाएं ताकि आप मन की शांति के साथ अपने वित्तीय लक्ष्य तक पहुंच सकें। अपनी वित्तीय योजना बनाने के लिए नीचे दिए गए हमारे किसी टूल का चयन करें।",
+  "text_portfolio": "पोर्टफोलियो",
+  "text_planner": "प्लानर",
+  "text_analyzer": "विश्लेषक",
+
+  "text_retirement_planner": "रिटायरमेंट प्लानर",
+  "text_retirement_planner_description": "अपनी रिटायरमेंट के लिए योजना बनायें । जल्दी शुरू करें और आगे रहो!",
+  "text_goal_planner": "गोल  प्लानर",
+  "text_goal_planner_description": "अपने जीवन लक्ष्यों के लिए वित्तीय योजना बनायें और अपने हर सपने को सच कर सकें।",
+  "text_news": "News",
+
+  "text_risk_profiler": "Risk Profiler",
+  "text_portfolio_analyzer": "Portfolio Analyzer",
+
+  "text_settings": "सेटिंग्स",
+  
+  "text_change_zone": "Select Country",
+  "text_change_zone_button": "Save",
+  "text_change_zone_text": "Reset",
+
+  "text_portfolio_knowfund": "Know your fund",
+  "text_portfolio_knowfund_description": "Check how your funds are performing across various parameters",
+  "text_fund": "Funds",
+
+  "text_portfolio_dividend": "Portfolio Dividend",
+  "text_portfolio_dividend_description": "Portfolio Dividend"
+}

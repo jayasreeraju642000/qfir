@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "784641961008",
+    "project_id": "qfinr-9ecd3",
+    "storage_bucket": "qfinr-9ecd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784641961008:android:074ea3bf1c818406f551f5",
+        "android_client_info": {
+          "package_name": "com.qfinr.qfinrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784641961008-smhnacfvnpjfpb0vkrln55hvplvkij2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaaKirgG5lSS2wtL8t5AJah0iy4s_4hAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784641961008-smhnacfvnpjfpb0vkrln55hvplvkij2s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784641961008-dlt5qa16ho7606fuhm8mqcl3rg9unsnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qfinr.qfinrapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

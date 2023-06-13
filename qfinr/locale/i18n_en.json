@@ -1,0 +1,116 @@
+{
+  "app_title": "My Application Title",
+  "main_title": "My Main Title",
+
+  "text_change_language": "Language Preferences",
+  "text_set_language_button": "Continue",
+  "text_change_language_button": "Set Language",
+  "text_change_language_text": "Reset your preferred language",
+
+  "text_skip": "SKIP",
+  "text_next": "NEXT",
+  "text_done": "DONE",
+  "slider1_title": "Invest Better, Grow Faster",
+  "slider1_description": "Track intelligent ideas & emerging themes packaged as simple stock and mutual fund baskets. Invest in right stocks/funds that make the cut and timely exit the ones that don’t.",
+  "slider2_title": "Buy and Sell at Right Times",
+  "slider2_description": "Improve returns and reduce risks using timely entry & exit notifications for baskets. Track unique market indicators to better manage short & long term investment allocations.",
+  "slider3_title": "Save on Decision Making Hassles",
+  "slider3_description": "Stop navigating through tons of information, expert opinions, biases and noise, that confuse more than they help. Save Cost, Time & Effort in your investment decisions.",
+
+  "text_form_social": "- Use your Facebook or Google account to Sign In -",
+  "text_form_email": "- or use email address -",
+  "text_account": "My Account",
+  "text_signup": "SIGN UP",
+  "text_signin": "SIGN IN",
+  "text_signout": "SIGN OUT",
+
+  "text_signup_l": "Sign Up",
+  "text_signin_l": "Sign In",
+  "text_signout_l": "Sign Out",
+
+  "text_name": "Full Name",
+  "text_email": "Email Address",
+  "text_password": "Password",
+
+  "text_stocks": "Stocks",
+  "text_stock": "Stock",
+  "text_mf": "Mutual Funds",
+  "text_mf_1": "Mutual Funds",
+  "text_market_indicators": "Market Indicators",
+  "text_indicators": "Indicators",
+  "text_basket": "Baskets",
+  "text_tools": "Tools",
+
+  "text_compounded": "Compounded Annual Returns",
+  "text_3year": "Last 3 Year \n Returns",
+  "text_mininvestment": "Mininum \n Investment",
+
+  "text_stock_caption": "Select ideas from the below that you believe in. Invest in right stocks that make the cut and timely exit the ones that don’t.",
+  "text_mf_caption": "Select Mutual Fund baskets from below that suit your goals. Invest in the latest schemes and rebalance after atleast a year.",
+  "text_mi_caption": "Select Market Indicators that you believe in. Enter and Exit equity markets at right times and reduce risks.",
+
+  "text_performance": "Performance",
+  "text_invest_phil": "Investment Philosophy",
+  "text_stocklist": "Stock List",
+  "text_mflist": "MF List",
+  "text_analytics": "Analytics",
+
+  "text_graph_in": "Value of ₹100 invested in this basket compared to the benchmark over time",
+  "text_graph_us": "Value of $100 invested in this basket compared to the benchmark over time",
+  "text_stock_subscribe": "Subscribe to this basket and get instant updates on any changes in it’s composition. Timely invest in stocks that get selected and exit the ones that don’t.",
+  "text_mf_subscribe": "Subscribe to this basket and get instant updates on any changes. Make fresh investments in the latest schemes listed below and rebalance after atleast a year.",
+
+  "text_scheme_name": "Scheme Names",
+  "text_stock_list": "Stocks",
+  "text_weightage": "Weightage (%)",
+  "text_past_performance": "Past Performance Analysis",
+  "text_rebalance": "Next rebalance date on",
+
+  "text_largecap": "Largecap",
+  "text_debt": "Debt",
+  "text_multicap": "Multicap",
+  "text_equity": "Equity",
+  "text_fundamental": "Fundamental",
+  "text_model_based": "Model Based",
+  "text_sectoral": "Sectoral",
+  "text_daily": "Daily",
+  "text_weekly": "Weekly",
+  "text_monthly": "Monthly",
+  "text_quarterly": "Quarterly",
+
+  "mi_date": "Date",
+  "mi_sentiment": "Market Sentiment",
+  "mi_last_updated": "Next Update",
+  "mi_value": "Current Value",
+  "mi_action": "Recommended Action",
+  "mi_trend": "Reading",
+
+  "text_tool_caption": "Plan your investments to reach your financial targets with peace of mind. Select one of our tools below to help build your financial plan",
+  "text_portfolio": "Portfolio",
+  "text_planner": "Planner",
+  "text_analyzer": "Analyzer",
+
+  "text_retirement_planner": "Retirement Planner",
+  "text_retirement_planner_description": "It is never too early to start planning for your retirement. Start early and stay ahead!",
+  "text_goal_planner": "Goal Planner",
+  "text_goal_planner_description": "Get a financial plan for your life goals. It's always better to plan ahead so that you can make your every dream come true",
+  "text_news": "News",
+
+  "text_risk_profiler": "Risk Profiler",
+  "text_portfolio_analyzer": "Portfolio Analyzer",
+
+  "text_settings": "Settings",
+
+  "text_change_zone": "Select Country",
+  "text_change_zone_button": "Save",
+  "text_change_zone_text": "Reset",
+
+  "text_portfolio_knowfund": "Know your Fund",
+  "text_portfolio_knowfund_description": "Check how your funds are performing across various parameters",
+  "text_fund": "Funds",
+
+  "text_portfolio_dividend": "Portfolio Dividend",
+  "text_portfolio_dividend_description": "Portfolio Dividend"
+
+}
+

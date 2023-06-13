@@ -1,0 +1,80 @@
+import 'dart:async';
+
+import 'package:flutter/material.dart';
+
+import 'package:scoped_model/scoped_model.dart';
+import '../../models/main_model.dart';
+
+import '../widget_common.dart';
+
+import '../../all_translations.dart';
+
+import 'package:material_switch/material_switch.dart';
+import 'package:splashscreen/splashscreen.dart';
+
+
+class SplashScreenPage extends StatefulWidget {
+	MainModel model;
+	SplashScreenPage(this.model);
+
+	@override
+	State<StatefulWidget> createState() {
+		return _SplashScreenState();
+	}
+}
+
+class _SplashScreenState extends State<SplashScreenPage> {
+
+	void initState(){ 
+		super.initState();
+	}
+
+  	@override
+	Widget build(BuildContext context) {
+		//return ScopedModelDescendant<MainModel>(
+		//	builder: (BuildContext context, Widget child, MainModel model){
+				return SplashScreen(
+					seconds: 14,
+					navigateAfterSeconds: AfterSplash(widget.model),
+					title: Text('Welcome In SplashScreen',
+					style: TextStyle(
+						fontWeight: FontWeight.bold,
+						fontSize: 20.0
+					),),
+					image: Image.network('https://i.imgur.com/TyCSG9A.png'),
+					backgroundColor: Colors.white,
+					styleTextUnderTheLoader: TextStyle(),
+					photoSize: 100.0,
+					onClick: ()=>log.d("Flutter Egypt"),
+					loaderColor: Colors.red
+				);
+		//	}
+		//);
+	}
+
+}
+
+
+class AfterSplash extends StatefulWidget {
+	MainModel model;
+	AfterSplash(this.model);
+	
+	@override
+	State<StatefulWidget> createState() {
+		return _AfterSplashState();
+	}
+}
+
+class _AfterSplashState extends State<AfterSplash> {
+
+	void initState(){ 
+		super.initState();
+		widget.model.isUserAuthenticated  ? Navigator.pushNamed(context, 'authenticaton') : Navigator.pushNamed(context, 'languageSelectorFalse');
+	}
+	
+	@override
+	Widget build(BuildContext context) {
+		
+	}
+}
+

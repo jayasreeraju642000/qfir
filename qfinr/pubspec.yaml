@@ -1,0 +1,185 @@
+name: qfinr
+description: Stocks, ETFs, mutual funds, deposits.
+publish_to: none
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# Read more about versioning at semver.org.
+version: 4.1.13+24
+
+#commodity and new portfolio master and portfolio design
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intro_slider: ^3.0.2
+  collection: "^1.14.5"
+  charts_common: ^0.12.0
+  charts_flutter: ^0.12.0
+  shared_preferences: ^2.0.7
+  progress_hud: ^1.1.0
+  scoped_model: ^1.1.0
+  cached_network_image: ^3.1.0
+  #flutter_facebook_login: ^3.0.0
+  #google_sign_in: ^4.1.1
+  firebase_core: ^1.6.0
+  firebase_analytics: ^8.3.1
+  firebase_analytics_web: 0.3.0+1
+  firebase_messaging: ^10.0.6
+  #flutter_crashlytics: ^0.1.0
+  flutter_localizations:
+    sdk: flutter
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.3
+  package_info: ^2.0.2
+  #flutter_pdf_viewer: ^0.0.4
+  flutter_full_pdf_viewer: ^1.0.6
+  url_launcher: ^6.0.10
+  percent_indicator: ^3.0.1
+  flutter_charts: ^0.2.0
+  flutter_typeahead: ^3.2.0
+  carousel_slider: ^4.0.0
+  smooth_star_rating: ^1.0.2
+  local_auth: ^1.1.7
+  pull_to_refresh: ^2.0.0
+  flutter_swiper: ^1.1.6
+  #flutter_cupertino_date_picker: ^1.0.26
+  flappy_search_bar: ^1.7.2
+  fl_chart: ^0.40.0
+  flutter_screenutil: ^5.0.0+2
+  #  pin_code_fields: ^7.0.0
+  lottie: ^1.0.1
+  flutter_statusbarcolor: ^0.2.3
+  smart_select: ^4.3.2
+  rflutter_alert: ^2.0.4
+  scroll_app_bar: ^2.0.0
+  jiffy: ^4.1.0
+  flutter_svg: ^0.22.0
+  bezier_chart: ^1.0.17+1
+  # dson: ^0.18.0
+  logger: ^1.0.0
+  ink_page_indicator:
+  flutter_range_slider: ^1.5.0
+  syncfusion_flutter_sliders: ^19.3.46
+  searchable_dropdown: ^1.1.3
+  responsive_builder: ^0.4.1
+  share: ^2.0.4
+  file_picker: ^4.0.2
+  http: ^0.13.3
+  url_strategy: ^0.2.0
+  dart_ipify: ^1.1.1
+  simple_html_css: ^3.0.1
+  universal_html: ^2.0.8
+  firebase_crashlytics: ^2.3.0
+dependency_overrides:
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.9.2
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/appIcon_new.png"
+  #adaptive_icon_foreground: "assets/icon/appIcon_new.png"
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - locale/i18n_en.json
+    - locale/i18n_hi.json
+    - assets/
+    - assets/preloader.gif
+    - assets/flag/
+    - assets/fonts/
+    - assets/fonts/nunito/
+    - assets/fonts/roboto/
+    - assets/icon/
+    - assets/images/
+    - assets/images/icons/
+    - assets/slider/
+    - assets/animation/
+    - assets/sample/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: helvetica
+      fonts:
+        #- asset: assets/fonts/HelveticaNeue.ttf
+        #  weight: 400
+        - asset: assets/fonts/HelveticaNeuBold.ttf
+          weight: 700
+        #- asset: assets/fonts/HelveticaNeueBlackCond.ttf
+        #- asset: assets/fonts/HelveticaNeueHv.ttf
+        #- asset: assets/fonts/HelveticaNeueIt.ttf
+        - asset: assets/fonts/HelveticaNeueMed.ttf
+          weight: 400
+        - asset: assets/fonts/HelveticaNeueLight.ttf
+          weight: 300
+        - asset: assets/fonts/HelveticaNeueLt.ttf
+          weight: 100
+
+        #- asset: assets/fonts/HelveticaNeueMedium.ttf
+        #- asset: assets/fonts/HelveticaNeueThin.ttf
+    - family: MyFlutterApp
+      fonts:
+        - asset: assets/fonts/MyFlutterApp.ttf
+
+    - family: nunito-bold
+      fonts:
+        - asset: assets/fonts/nunito/NunitoSans-Bold.ttf
+          weight: 600
+    - family: nunito
+      fonts:
+        - asset: assets/fonts/nunito/NunitoSans-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/nunito/NunitoSans-ExtraBold.ttf
+          weight: 700
+        - asset: assets/fonts/nunito/NunitoSans-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/nunito/NunitoSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/nunito/NunitoSans-Light.ttf
+          weight: 200
+        - asset: assets/fonts/nunito/NunitoSans-ExtraLight.ttf
+          weight: 100
+    - family: roboto
+      fonts:
+        - asset: assets/fonts/roboto/RobotoSlab-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/roboto/RobotoSlab-Bold.ttf
+          weight: 600
+        - asset: assets/fonts/roboto/RobotoSlab-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/roboto/RobotoSlab-Light.ttf
+          weight: 200
+        - asset: assets/fonts/roboto/RobotoSlab-Thin.ttf
+          weight: 100
